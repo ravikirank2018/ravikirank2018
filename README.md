@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hi, I'm Ravi, a B.Tech Computer Science student at GITAM . I enjoy solving algorithmic challenges and have a solid foundation in Data Structures, Algorithms, and Machine Learning. My experience includes real-world projects like Cyhack (real-time cyber incident monitoring) and web applications such as G Stationary and G Doubt App. I’m skilled in Python, Java, and web technologies like HTML, CSS, and JavaScript. Connect with me as I strive to grow and tackle more challenging problems! 🚀</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">👋 Hi, I'm Ravi — a passionate B.Tech Computer Science student at GITAM University. I love tackling algorithmic challenges and have a strong foundation in Data Structures, Algorithms, and Machine Learning. My journey includes hands-on experience through impactful projects like Cyhack (a real-time cyber incident monitoring system), Adaptively – an AI-powered accessibility learning platform designed to support inclusive education. I’m proficient in Python, Java, and web development technologies like HTML, CSS, JavaScript, and React. I'm always eager to learn, build, and solve real-world problems. Let's connect and innovate together! 🚀</h1>
+
+<h3 align="center">A passionate developer & problem solver from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikirank2018&label=Profile%20views&color=0e75b6&style=flat" alt="ravikirank2018" /> </p>
 
